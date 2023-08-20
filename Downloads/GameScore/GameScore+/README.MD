@@ -1,4 +1,4 @@
-![game_score+-removebg-preview](/uploads/b8ab12b3e5b0ebb1174c1b167e9735cf/game_score+-removebg-preview.png)
+![game_score+-removebg-preview](https://github.com/daykell1/GameScore/assets/54118755/15414ae7-37f5-4e04-becf-43145ec0c396)
 
 **Projeto GameScore+: Criando uma Comunidade para Entusiastas de Jogos**
 
@@ -27,4 +27,4 @@ O projeto GameScore almeja reunir jogadores de todas as esferas da vida em uma p
 
 **Equipe GameScore+ 🎮🕹️**
 
-![game_score+-removebg-preview](/uploads/b8ab12b3e5b0ebb1174c1b167e9735cf/game_score+-removebg-preview.png)
+![game_score+-removebg-preview](https://github.com/daykell1/GameScore/assets/54118755/15414ae7-37f5-4e04-becf-43145ec0c396)
