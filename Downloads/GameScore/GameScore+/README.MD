@@ -1,6 +1,12 @@
-![game_score+-removebg-preview](https://github.com/daykell1/GameScore/assets/54118755/15414ae7-37f5-4e04-becf-43145ec0c396)
+<p align="center">
+  <img src="https://github.com/daykell1/GameScore/assets/54118755/18fad7b0-63a0-4748-a687-fc9789a295dc" alt="Logo do GameScore+" width="250">
+</p>
 
-**Projeto GameScore+: Criando uma Comunidade para Entusiastas de Jogos**
+
+
+### Projeto GameScore+ ###
+
+**Criando uma Comunidade para Entusiastas de Jogos**
 
 O objetivo central do nosso projeto é desenvolver um site dedicado a um nicho específico, dando origem à vibrante comunidade denominada GameScore. Esta plataforma servirá como um espaço interativo e engajador, onde entusiastas de jogos, poderão se reunir para discutir, trocar ideias e compartilhar informações valiosas sobre seus jogos favoritos.
 
@@ -27,4 +33,4 @@ O projeto GameScore almeja reunir jogadores de todas as esferas da vida em uma p
 
 **Equipe GameScore+ 🎮🕹️**
 
-![game_score+-removebg-preview](https://github.com/daykell1/GameScore/assets/54118755/15414ae7-37f5-4e04-becf-43145ec0c396)
+<img src="https://github.com/daykell1/GameScore/assets/54118755/18fad7b0-63a0-4748-a687-fc9789a295dc" alt="Logo do GameScore+" width="250">
